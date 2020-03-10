@@ -1,0 +1,11 @@
+input{
+  outline: 1px solid;
+  width: 60%;
+  font-size: 20px;
+}
+
+button{
+  color: #bd8b15;
+  font-size: 35px !important;
+
+}
